@@ -1,0 +1,17 @@
+F:\VisualCode\BTL-Nhom4-QLSV\Nhom4-QLSV\BUS\bin\Debug\net5.0-windows\BUS.deps.json
+F:\VisualCode\BTL-Nhom4-QLSV\Nhom4-QLSV\BUS\bin\Debug\net5.0-windows\BUS.dll
+F:\VisualCode\BTL-Nhom4-QLSV\Nhom4-QLSV\BUS\bin\Debug\net5.0-windows\ref\BUS.dll
+F:\VisualCode\BTL-Nhom4-QLSV\Nhom4-QLSV\BUS\bin\Debug\net5.0-windows\BUS.pdb
+F:\VisualCode\BTL-Nhom4-QLSV\Nhom4-QLSV\BUS\bin\Debug\net5.0-windows\DAL.dll
+F:\VisualCode\BTL-Nhom4-QLSV\Nhom4-QLSV\BUS\bin\Debug\net5.0-windows\DTO.dll
+F:\VisualCode\BTL-Nhom4-QLSV\Nhom4-QLSV\BUS\bin\Debug\net5.0-windows\DAL.pdb
+F:\VisualCode\BTL-Nhom4-QLSV\Nhom4-QLSV\BUS\bin\Debug\net5.0-windows\DTO.pdb
+F:\VisualCode\BTL-Nhom4-QLSV\Nhom4-QLSV\BUS\obj\Debug\net5.0-windows\BUS.csproj.AssemblyReference.cache
+F:\VisualCode\BTL-Nhom4-QLSV\Nhom4-QLSV\BUS\obj\Debug\net5.0-windows\BUS.GeneratedMSBuildEditorConfig.editorconfig
+F:\VisualCode\BTL-Nhom4-QLSV\Nhom4-QLSV\BUS\obj\Debug\net5.0-windows\BUS.AssemblyInfoInputs.cache
+F:\VisualCode\BTL-Nhom4-QLSV\Nhom4-QLSV\BUS\obj\Debug\net5.0-windows\BUS.AssemblyInfo.cs
+F:\VisualCode\BTL-Nhom4-QLSV\Nhom4-QLSV\BUS\obj\Debug\net5.0-windows\BUS.csproj.CoreCompileInputs.cache
+F:\VisualCode\BTL-Nhom4-QLSV\Nhom4-QLSV\BUS\obj\Debug\net5.0-windows\BUS.csproj.CopyComplete
+F:\VisualCode\BTL-Nhom4-QLSV\Nhom4-QLSV\BUS\obj\Debug\net5.0-windows\BUS.dll
+F:\VisualCode\BTL-Nhom4-QLSV\Nhom4-QLSV\BUS\obj\Debug\net5.0-windows\ref\BUS.dll
+F:\VisualCode\BTL-Nhom4-QLSV\Nhom4-QLSV\BUS\obj\Debug\net5.0-windows\BUS.pdb

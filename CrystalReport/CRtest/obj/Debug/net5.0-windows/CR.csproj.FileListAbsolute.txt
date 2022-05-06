@@ -1,0 +1,8 @@
+F:\VisualCode\BTL-Nhom4-QLSV\CrystalReport\CRtest\obj\Debug\net5.0-windows\CrystalReport.CrystalReporttest.resources
+F:\VisualCode\BTL-Nhom4-QLSV\CrystalReport\CRtest\obj\Debug\net5.0-windows\CrystalReport.InDSKQ.resources
+F:\VisualCode\BTL-Nhom4-QLSV\CrystalReport\CRtest\obj\Debug\net5.0-windows\CrystalReport.InDSSV.resources
+F:\VisualCode\BTL-Nhom4-QLSV\CrystalReport\CRtest\obj\Debug\net5.0-windows\CR.csproj.GenerateResource.cache
+F:\VisualCode\BTL-Nhom4-QLSV\CrystalReport\CRtest\obj\Debug\net5.0-windows\CR.GeneratedMSBuildEditorConfig.editorconfig
+F:\VisualCode\BTL-Nhom4-QLSV\CrystalReport\CRtest\obj\Debug\net5.0-windows\CR.AssemblyInfoInputs.cache
+F:\VisualCode\BTL-Nhom4-QLSV\CrystalReport\CRtest\obj\Debug\net5.0-windows\CR.AssemblyInfo.cs
+F:\VisualCode\BTL-Nhom4-QLSV\CrystalReport\CRtest\obj\Debug\net5.0-windows\CR.csproj.CoreCompileInputs.cache

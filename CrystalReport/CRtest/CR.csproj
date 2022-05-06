@@ -1,0 +1,78 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ReferencePath>C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\</ReferencePath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="rptDSKQ.rpt" />
+    <None Remove="rptDSSV.rpt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="rptDSKQ.rpt">
+      <LastGenOutput>rptDSKQ.cs</LastGenOutput>
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptDSSV.rpt">
+      <LastGenOutput>rptDSSV.cs</LastGenOutput>
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="CrystalReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CrystalReport.Designer.cs">
+      <DependentUpon>CrystalReport.cs</DependentUpon>
+    </Compile>
+    <Compile Update="InDSKQ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InDSKQ.Designer.cs">
+      <DependentUpon>InDSKQ.cs</DependentUpon>
+    </Compile>
+    <Compile Update="InDSSV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InDSSV.Designer.cs">
+      <DependentUpon>InDSSV.cs</DependentUpon>
+    </Compile>
+    <Compile Update="rptDSKQ.cs">
+      <SubType>Component</SubType>
+      <DependentUpon>rptDSKQ.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Update="rptDSSV.cs">
+      <SubType>Component</SubType>
+      <DependentUpon>rptDSSV.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Service Include="{c0c07587-41a7-46c8-8fbd-3f9c8ebe2ddc}" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="CrystalReport.resx">
+      <DependentUpon>CrystalReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="InDSKQ.resx">
+      <DependentUpon>InDSKQ.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="InDSSV.resx">
+      <DependentUpon>InDSSV.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

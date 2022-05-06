@@ -1,0 +1,12 @@
+F:\VisualCode\BTL-Nhom4-QLSV\Nhom4-QLSV\DAL\bin\Debug\net5.0-windows\DAL.deps.json
+F:\VisualCode\BTL-Nhom4-QLSV\Nhom4-QLSV\DAL\bin\Debug\net5.0-windows\DAL.dll
+F:\VisualCode\BTL-Nhom4-QLSV\Nhom4-QLSV\DAL\bin\Debug\net5.0-windows\ref\DAL.dll
+F:\VisualCode\BTL-Nhom4-QLSV\Nhom4-QLSV\DAL\bin\Debug\net5.0-windows\DAL.pdb
+F:\VisualCode\BTL-Nhom4-QLSV\Nhom4-QLSV\DAL\obj\Debug\net5.0-windows\DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\VisualCode\BTL-Nhom4-QLSV\Nhom4-QLSV\DAL\obj\Debug\net5.0-windows\DAL.AssemblyInfoInputs.cache
+F:\VisualCode\BTL-Nhom4-QLSV\Nhom4-QLSV\DAL\obj\Debug\net5.0-windows\DAL.AssemblyInfo.cs
+F:\VisualCode\BTL-Nhom4-QLSV\Nhom4-QLSV\DAL\obj\Debug\net5.0-windows\DAL.csproj.CoreCompileInputs.cache
+F:\VisualCode\BTL-Nhom4-QLSV\Nhom4-QLSV\DAL\obj\Debug\net5.0-windows\DAL.dll
+F:\VisualCode\BTL-Nhom4-QLSV\Nhom4-QLSV\DAL\obj\Debug\net5.0-windows\ref\DAL.dll
+F:\VisualCode\BTL-Nhom4-QLSV\Nhom4-QLSV\DAL\obj\Debug\net5.0-windows\DAL.pdb
+F:\VisualCode\BTL-Nhom4-QLSV\Nhom4-QLSV\DAL\obj\Debug\net5.0-windows\DAL.csproj.AssemblyReference.cache
